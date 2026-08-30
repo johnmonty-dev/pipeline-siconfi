@@ -1,0 +1,7 @@
+venv/
+hadoop/
+minio/
+minio_data/
+__pycache__/
+*.pyc
+.env
